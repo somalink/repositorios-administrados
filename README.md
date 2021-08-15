@@ -1,2 +1,2 @@
 # repositorios-administrados
-múltiples opciones de repositorios administrados
+Explorando múltiples opciones de repositorios administrados
